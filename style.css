@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+.forList {
+    margin: 2px;
+    width: 100px;
+    height: 20px;
+    font-size: 18px;
+    border: solid 1px black;
+}
+#table {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+#label {
+    margin: 10px;
+    margin-bottom: 10px;
+}
+#addInput {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.getData {
+    width: 154px;
+    margin-bottom: 90px;
+}
+.trash {
+    margin-top: 50px;
+}
+.tasklist {
+    margin-top: 80px;
+}
